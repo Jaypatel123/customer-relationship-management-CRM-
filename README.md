@@ -1,4 +1,4 @@
-# Please Follow below steps to run up server
+# Please Follow below steps to run up server (macos) 
 
 1) create a local dir, go to thet dir using terminal
 2) git clone https://github.com/Jaypatel123/customer-relationship-management-CRM-.git
