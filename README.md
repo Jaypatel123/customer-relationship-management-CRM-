@@ -1,10 +1,11 @@
 # Please Follow below steps to run up server (macos) 
 
-1) create a local dir, go to thet dir using terminal
-2) git clone https://github.com/Jaypatel123/customer-relationship-management-CRM-.git
-3) cd crm1
-4) python3 -m vern myenv
-5) source myenv/bin/activate
+1) create a local directory,
+2) Go to that directory using Terminal
+3) git clone https://github.com/Jaypatel123/customer-relationship-management-CRM-.git
+4) cd crm1
+5) python3 -m vern myenv
+6) source myenv/bin/activate
 
 # Install required packages
 1) pip install django
